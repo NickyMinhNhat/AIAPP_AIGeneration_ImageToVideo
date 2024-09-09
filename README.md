@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
    ```bash
    cd AIAPP_AIGeneration_ImageToVideo
    streamlit run client_protonX_Project2_streamlit_promp.py (change link Ngrok from output of backend file)
-
+![Library](Demo/Library.png)
 ![Generation_Video](https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25)
 
 ![Shoe_Generation-Video](https://github.com/user-attachments/assets/85f56207-677b-4dad-a270-d599724391eb)
