@@ -27,8 +27,10 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/username/i2vgen-xl-video-gen.git
 
-2. Run file Backend(jupyter notebook) in Google Colab with GPU >= L4
-3. Run file Client
+## Usage
+
+1. Run file Backend(jupyter notebook) in Google Colab with GPU >= L4
+2. Run file Client
    ```bash
    cd AIAPP_AIGeneration_ImageToVideo
    streamlit run client_protonX_Project2_streamlit_promp.py (change link Ngrok from output of backend file)
