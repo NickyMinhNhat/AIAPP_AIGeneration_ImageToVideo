@@ -37,6 +37,14 @@ To set up the project locally, follow these steps:
 ![Library](Demo/Library.png)
 ![Generation_Video](https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25)
 
+<p align="center">
+  <img src="Demo/Library.png" alt="Mô tả ảnh" width="400" />
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Mô tả video" width="400" />
+  </a>
+</p>
+
+
 ![Shoe_Generation-Video](https://github.com/user-attachments/assets/85f56207-677b-4dad-a270-d599724391eb)
 
 ## Technologies
