@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-1. Run file Backend(jupyter notebook) in Google Colab with GPU >= L4
+1. Run file Backend (jupyter notebook) in Google Colab with GPU >= L4
 2. Run file Client
    ```bash
    cd AIAPP_AIGeneration_ImageToVideo
