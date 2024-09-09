@@ -37,7 +37,7 @@ To set up the project locally, follow these steps:
 
 ![Generation_Video](https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25)
 
-https://product.hstatic.net/1000230642/product/hsm001200den__2__7496d54e3a8043ea903f0dfd1ccefdf6.jpg
+![Shoe_Generation-Video](https://github.com/user-attachments/assets/85f56207-677b-4dad-a270-d599724391eb)
 
 ## Technologies
 - Python, I2VGen-XL, Streamlit, Flask, Google Colab, Hugging Face Diffusers, Ngrok.
