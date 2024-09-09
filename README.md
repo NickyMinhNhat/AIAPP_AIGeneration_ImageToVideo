@@ -29,6 +29,8 @@ To set up the project locally, follow these steps:
 
 2. Run file Backend(jupyter notebook) in Google Colab with GPU >= L4
 3. Run file Client
+   ```bash
    cd AIAPP_AIGeneration_ImageToVideo
+   ```bash
    streamlit run client_protonX_Project2_streamlit_promp.py (change link Ngrok from output of backend file)
    
