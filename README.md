@@ -35,6 +35,8 @@ To set up the project locally, follow these steps:
    cd AIAPP_AIGeneration_ImageToVideo
    streamlit run client_protonX_Project2_streamlit_promp.py (change link Ngrok from output of backend file)
 
+![Generation_Video](https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25)
+
 ## Technologies
 - Python, I2VGen-XL, Streamlit, Flask, Google Colab, Hugging Face Diffusers, Ngrok.
    
