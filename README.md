@@ -34,14 +34,10 @@ To set up the project locally, follow these steps:
    ```bash
    cd AIAPP_AIGeneration_ImageToVideo
    streamlit run client_protonX_Project2_streamlit_promp.py (change link Ngrok from output of backend file)
-![Library](Demo/Library.png)
-![Generation_Video](https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25)
 
-![Library](Demo/Shoe.webp)
-![Shoe_Generation-Video](https://github.com/user-attachments/assets/85f56207-677b-4dad-a270-d599724391eb)
-
-
-<p align="center"> <img src="Demo/Library.png" alt="Library" width="400"/> <img src="https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25" alt="Generation Video" width="400"/> </p> <p align="center"> <img src="Demo/Shoe.webp" alt="Shoe" width="400"/> <img src="https://github.com/user-attachments/assets/85f56207-677b-4dad-a270-d599724391eb" alt="Shoe Generation Video" width="400"/> </p>
+<p align="center"> 
+   <img src="Demo/Library.png" alt="Library" width="400"/> <img src="https://github.com/user-attachments/assets/7c4348a9-52f9-40f9-a0a7-c1e94ea56c25" alt="Generation Video" width="400"/> </p> <p align="center">
+   <img src="Demo/Shoe.webp" alt="Shoe" width="400"/> <img src="https://github.com/user-attachments/assets/85f56207-677b-4dad-a270-d599724391eb" alt="Shoe Generation Video" width="400"/> </p>
 
 ## Technologies
 - Python, I2VGen-XL, Streamlit, Flask, Google Colab, Hugging Face Diffusers, Ngrok.
